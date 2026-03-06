@@ -1,4 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using NexusPay.Data;
+using NexusPay.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Add Database Connection (assuming SQL Server)
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Register the Banking Service
+builder.Services.AddScoped<ITransactionService, TransactionService>();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

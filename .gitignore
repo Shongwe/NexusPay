@@ -1,0 +1,57 @@
+## [ Visual Studio ]
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017/2019/2022 cache/options directory
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## [ .NET Core / .NET 5+ ]
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## [ Database ]
+# Ignore local SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+
+## [ Secrets & Environment ]
+# NEVER commit your secrets!
+appsettings.Development.json
+appsettings.local.json
+.env
+*.pfx
+*.publishsettings
+
+## [ User Preference Files ]
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## [ Operating System Files ]
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride

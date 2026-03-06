@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NexusPay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ca83df376df15038e5c4ae06733284ecc5327d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NexusPay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NexusPay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
