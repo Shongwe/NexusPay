@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -21,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\views\\home\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:views\\home\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DC15ADA-65A7-4DEA-94A4-4BF240610FE6}|NexusPay.csproj|c:\\users\\senzo\\desktop\\projects\\nexuspay\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,19 +87,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T09:46:48.349Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\User.cs*",
+              "RelativeToolTip": "Models\\User.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:05:20.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TransferViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\TransferViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TransferViewModel.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\TransferViewModel.cs",
+              "RelativeToolTip": "Models\\TransferViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:05:16.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:05:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:05:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Models\\Account.cs*",
+              "RelativeToolTip": "Models\\Account.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:04:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:04:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:03:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-06T09:59:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -80,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "Services\\TransactionService.cs",
@@ -93,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Services\\ITransactionService.cs",
               "RelativeDocumentMoniker": "Services\\ITransactionService.cs",
@@ -106,7 +229,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:33:56.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T09:46:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Transfer.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\Home\\Transfer.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Transfer.cshtml",
@@ -119,20 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T09:33:56.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "History.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\Home\\History.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\History.cshtml",
@@ -145,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "History.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\wallet\\History.cshtml",
               "RelativeDocumentMoniker": "Views\\wallet\\History.cshtml",
@@ -158,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\wallet\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\wallet\\Index.cshtml",
@@ -171,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\senzo\\Desktop\\projects\\NexusPay\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",

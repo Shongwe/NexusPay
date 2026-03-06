@@ -8,14 +8,11 @@ namespace NexusPay.Data
     {
         public static void Seed(ModelBuilder modelBuilder)
         {
-            // 1. Seed Users
             modelBuilder.Entity<User>().HasData(
                 new User { Id = 1, FullName = "Senzosenkosi Shongwe", Email = "senzo@nexuspay.com" },
                 new User { Id = 2, FullName = "BBD Recruiter", Email = "recruiter@bbd.co.za" }
             );
 
-            // 2. Seed Accounts
-            // Note: We use fixed IDs to ensure relationships work during the first migration
             modelBuilder.Entity<Account>().HasData(
                 new Account
                 {
@@ -33,7 +30,6 @@ namespace NexusPay.Data
                 }
             );
 
-            // 3. Seed an Initial Transaction (Optional - to show history works)
             modelBuilder.Entity<Transaction>().HasData(
                 new Transaction
                 {

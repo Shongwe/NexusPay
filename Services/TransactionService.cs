@@ -15,7 +15,6 @@ namespace NexusPay.Services
 
         public async Task<bool> TransferFundsAsync(int fromAccountId, int toAccountId, decimal amount)
         {
-            // Start the ACID-compliant transaction
             using var transaction = await _context.Database.BeginTransactionAsync();
 
             try
@@ -25,16 +24,13 @@ namespace NexusPay.Services
 
                 if (sender == null || receiver == null || sender.Balance < amount)
                 {
-                    return false; // Validation failed
+                    return false; 
                 }
 
-                // 1. Deduct from Sender
                 sender.Balance -= amount;
 
-                // 2. Add to Receiver
                 receiver.Balance += amount;
 
-                // 3. Create the Audit Log (The Ledger entry)
                 var auditEntry = new Transaction
                 {
                     SenderAccountId = fromAccountId,
@@ -47,23 +43,19 @@ namespace NexusPay.Services
 
                 _context.Transactions.Add(auditEntry);
 
-                // 4. Save changes to the database
                 await _context.SaveChangesAsync();
 
-                // 5. Commit the transaction (All or nothing)
                 await transaction.CommitAsync();
 
                 return true;
             }
             catch (DbUpdateConcurrencyException)
             {
-                // This catches "Double Spending" attempts via the RowVersion/Timestamp
                 await transaction.RollbackAsync();
                 throw new Exception("Concurrency conflict detected. Please retry.");
             }
             catch (Exception)
             {
-                // Rollback if anything else goes wrong (Network error, Disk error, etc.)
                 await transaction.RollbackAsync();
                 return false;
             }
@@ -85,7 +77,6 @@ namespace NexusPay.Services
 
         public async Task<IEnumerable<Account>> GetAllAccountsAsync()
         {
-            // We include the User data so the Dashboard can show the account owner's name
             return await _context.Accounts
                 .Include(a => a.User)
                 .ToListAsync();

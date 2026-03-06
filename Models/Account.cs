@@ -21,8 +21,6 @@ namespace NexusPay.Models
         [ForeignKey("UserId")]
         public User User { get; set; }
 
-        // Optimistic Concurrency Token
-        // This prevents two simultaneous transactions from interfering with each other.
         [Timestamp]
         public byte[] RowVersion { get; set; }
     }

@@ -7,9 +7,7 @@ using System.Diagnostics;
 
 namespace NexusPay.Controllers
 {
-    // Removing [ApiController] and [Route] allows standard MVC View routing
-    // or you can keep them and use specific [HttpGet] attributes.
-    public class WalletController : Controller // Changed to Controller to support Views
+    public class WalletController : Controller
     {
         private readonly ITransactionService _transactionService;
         private readonly ILogger<WalletController> _logger;
@@ -20,18 +18,13 @@ namespace NexusPay.Controllers
             _logger = logger;
         }
 
-        // --- MVC VIEWS (UI) ---
-
-        // GET: /Wallet/Index
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            // We'll add a method to our service to get all accounts for the dashboard
             var accounts = await _transactionService.GetAllAccountsAsync();
             return View(accounts);
         }
 
-        // GET: /Wallet/History/1
         [HttpGet]
         public async Task<IActionResult> History(int id)
         {
@@ -39,17 +32,15 @@ namespace NexusPay.Controllers
             return View(history);
         }
 
-        // GET: /Wallet/Transfer
         [HttpGet]
         public IActionResult Transfer()
         {
             return View(new TransferViewModel());
         }
 
-        // --- API ENDPOINTS (Logic) ---
 
         [HttpPost]
-        [ValidateAntiForgeryToken] // Security best practice for MVC forms
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Transfer(TransferViewModel model)
         {
             if (!ModelState.IsValid) return View(model);
